@@ -1,6 +1,7 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Deville Consulting
+description: About Deville Consulting
+bg_image: images/feature-bg.jpg
+
 ---
+Hello
